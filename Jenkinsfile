@@ -21,4 +21,4 @@ tools {
         }
     }
 }
-//Nexus, Tomcat, Slack, still to be
+//Nexus, Tomcat, Slack, still to be included
