@@ -17,7 +17,7 @@
 	Session 104 will start on June 14, 2025.
         Please invite all your contacts and friends for this life changing course.
 
-		<h1 align="center">Deployment assignment demo (06/08/2025)</h1>
+<h3 align="center">Deployment assignment demo (06/08/2025)</h3>
 </h2>
 <hr>
 <br>
